@@ -127,3 +127,7 @@ These credentials are publicly known and must not be used in a deployed environm
 ## Production notes
 
 The development server and default configuration are intended for local use. Before deployment, configure a strong `SECRET_KEY`, replace or remove demo accounts and sample content, restrict CORS to trusted origins, and provide secure database and integration credentials.
+
+Open to contributions.
+
+Created by [Keerthan Narra](https://github.com/keerthannarra).
